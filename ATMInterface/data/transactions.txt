@@ -1,0 +1,7 @@
+Login successful
+Balance checked: Rs.5000.0
+Deposited Rs.1000.0
+User logged out
+Login successful
+Balance checked: Rs.6000.0
+User logged out
