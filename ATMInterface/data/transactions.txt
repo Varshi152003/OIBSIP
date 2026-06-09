@@ -5,3 +5,15 @@ User logged out
 Login successful
 Balance checked: Rs.6000.0
 User logged out
+Login successful
+Deposited Rs.25000.0
+Withdrawn Rs.28500.0
+Failed transfer due to invalid account number
+Transferred Rs.1250.0 to account 1250125
+User logged out
+Login successful
+Balance checked: Rs.1250.0
+Login successful
+Deposited Rs.8500.0
+Withdrawn Rs.8000.0
+User logged out
